@@ -6,4 +6,3 @@ Additional Dependencies not included in the github repository:
 1. glad
 2. GLFW
 3. glm
-4. imgui
